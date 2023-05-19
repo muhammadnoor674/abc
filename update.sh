@@ -4,6 +4,13 @@ dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Dat
 biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 ###########- COLOR CODE -##############
 REPO="https://raw.githubusercontent.com/myridwan/abc/ipuk/"
+echo -e " >>> INFORMASI UPDATE SCRIPT <<<" | lolcat
+echo -e "     •> Add UDP Server <•"
+echo -e "   •> Install UDP Server <•"
+echo -e "     •> Fix Bug Script <•"
+echo -e "    •> Script By @Kytxz <•"
+echo -e " >>> THANKS TO RIDWAN STORE <<<" | lolcat
+sleep 3
 echo -e " [INFO] Downloading Update File" | lolcat
 sleep 2
 rm -rf /tmp/menu
