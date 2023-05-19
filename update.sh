@@ -9,14 +9,14 @@ CYAN='\033[0;96m'        # Cyan
 BG="\E[44;1;39m"
 NC="\E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "    ${BG} >>> INFORMASI UPDATE SCRIPT <<< ${NC}"
+echo -e "  ${BG} >>> INFORMASI UPDATE SCRIP <<< ${NC}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "      •> Add UDP Server <•" | lolcat
 echo -e "    •> Install UDP Server <•" | lolcat
 echo -e "      •> Fix Bug Script <•" | lolcat
 echo -e "     •> Script By @Kytxz <•" | lolcat
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "    ${BG} >>> THANKS TO RIDWAN STORE <<< ${NC}" 
+echo -e "  ${BG} >>> THANKS TO RIDWAN STORE <<< ${NC}" 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 sleep 3
 echo -e " [INFO] Downloading Update File" | lolcat
