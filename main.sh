@@ -29,8 +29,8 @@ TIME=$(date +'%Y-%m-%d %H:%M:%S')
 RAMMS=$(free -m | awk 'NR==2 {print $2}')
 KEY="6042674179:AAE_8Jd3b4KIhiLDy1zJ1YhVgFz1q_SQjZI"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
-REPO="https://raw.githubusercontent.com/myridwan/abc/ipuk/"
-CDNF="https://raw.githubusercontent.com/myridwan/abc/ipuk"
+REPO="https://raw.githubusercontent.com/muhammadnoor674/abc/ipuk/"
+CDNF="https://raw.githubusercontent.com/muhammadnoor674/abc/ipuk"
 APT="apt-get -y install "
 domain=$(cat /root/domain)
 start=$(date +%s)
@@ -557,7 +557,7 @@ echo ""
 
 }
 cd /tmp
-KYTPROJECT
+BZPROJECT
 first_setup
 dir_xray
 add_domain
