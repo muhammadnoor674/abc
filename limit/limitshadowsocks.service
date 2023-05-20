@@ -1,6 +1,6 @@
 [Unit]
 Description=Limit Usage Xray Service
-Documentation=FighterTunnel
+Documentation=NYARIGRATISAN
 After=syslog.target network-online.target
 
 [Service]
