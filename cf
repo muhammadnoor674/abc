@@ -42,11 +42,11 @@ echo "Host : $SUB_DOMAIN"
 echo $SUB_DOMAIN > /root/domain
 cp /root/domain /etc/xray/domain
 
-#wget -O /usr/bin/dhn "https://raw.githubusercontent.com/myridwan/scvip/ipuk/CDN/A/I/U/E/O/dhn.sh"
-#wget -O /usr/bin/dhn2 "https://raw.githubusercontent.com/myridwan/scvip/ipuk/CDN/A/I/U/E/O/dhn2.sh"
-#wget -O /usr/bin/dhn3 "https://raw.githubusercontent.com/myridwan/scvip/ipuk/CDN/A/I/U/E/O/dhn3.sh"
-#wget -O /usr/bin/nza "https://raw.githubusercontent.com/myridwan/scvip/ipuk/CDN/A/I/U/E/O/nza.sh"
-#wget -O /usr/bin/wcc "https://raw.githubusercontent.com/myridwan/scvip/ipuk/CDN/A/I/U/E/O/cs_wc.sh"
+#wget -O /usr/bin/dhn "https://raw.githubusercontent.com/muhammadnoor674/scvip/ipuk/CDN/A/I/U/E/O/dhn.sh"
+#wget -O /usr/bin/dhn2 "https://raw.githubusercontent.com/muhammadnoor674/scvip/ipuk/CDN/A/I/U/E/O/dhn2.sh"
+#wget -O /usr/bin/dhn3 "https://raw.githubusercontent.com/muhammadnoor674/scvip/ipuk/CDN/A/I/U/E/O/dhn3.sh"
+#wget -O /usr/bin/nza "https://raw.githubusercontent.com/muhammadnoor674/scvip/ipuk/CDN/A/I/U/E/O/nza.sh"
+#wget -O /usr/bin/wcc "https://raw.githubusercontent.com/muhammadnoor674/scvip/ipuk/CDN/A/I/U/E/O/cs_wc.sh"
 
 #chmod +x /usr/bin/dhn
 #chmod +x /usr/bin/dhn2
